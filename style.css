@@ -1,0 +1,30 @@
+#qrscanner {
+    background-color: beige;
+}
+
+#table-header {
+    background-color: deepskyblue;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+table {
+    background-color: azure;
+}
+
+.bg-color {
+    background-color: deepskyblue;
+}
+
+img {
+    width: 120x;
+    height: 120px;
+}
+
+.qrcode {
+    width: 160;
+    height: 160;
+    align-items: center;
+}
+
+
